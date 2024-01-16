@@ -496,7 +496,28 @@ button{
     height:422px;
     background-image:url('Images/Rectangle\ 8\ \(1\).png')
 }
+.sub21{
+    width: 324px;
+    height: 120px;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+    margin-top: 256px;
+    margin-left: 343px;
+}
 
+h4{ 
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 400;
+}
+.sub211{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 800;
+}
 /* End of Subscribe section*/
 /*start the footer section */
 footer{
