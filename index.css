@@ -363,3 +363,62 @@ button{
     line-height: 26px; 
 }
 /* Start the explore section */
+.explore{
+    width:1170px;
+    height:592px;
+    margin:50px auto;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.explore1{
+    display:flex;
+    justify-content:space-between;
+    width:1170px;
+    height:284px;
+}
+.explore11{
+    width:573px;
+    height:284px;
+}
+.explore12{
+    width:573px;
+    height:284px;
+}
+.eximage{
+    width:64px;
+    height:64px;
+    padding-top:32px;
+    margin-left:32px;
+    display:block;
+
+}
+.exploretitle{
+    width:221px;
+    height:30px;
+    margin-top:32px;
+    margin-left:32px;
+    color: #131318;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+.explore p {
+    width:486px;
+    height:78px;
+    margin-top:16px;
+    margin-left:32px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+
+}
+.explore2{
+    width:1170px;
+    height:284px;
+}
+.explore2 .explore12 {
+    margin-left:266px;
+}
