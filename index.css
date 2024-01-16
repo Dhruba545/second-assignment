@@ -337,3 +337,29 @@ button{
     height:35px;
     margin:132px 260px;
 }
+/*Completely given the every image*/
+.exten2{
+    width:643px;
+    height:126px;
+    margin:50px auto;
+    text-align:center;
+}
+.exten21{
+    width:307px;
+    height:50px;
+    padding:0px 168px;
+    color: #131318;
+    text-align: center;  
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom:24px;
+
+}
+.exten22{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+/* Start the explore section */
