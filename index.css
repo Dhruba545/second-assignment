@@ -232,3 +232,107 @@ button{
     line-height: 26px; 
 }
 /*Extension part complete*/
+.place{
+    width:1170px;
+    height:934px;
+    margin:50px auto;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 800;
+}
+.place1{
+    width:100%;
+    height: 300px;
+    display:flex;
+    justify-content:space-between;
+}
+.place11{
+    width:573px;
+    height:300px;
+    background-image: url('Images/Rectangle\ 5.png');
+
+}
+.place111{
+    width:106px;
+    height:35px;
+    margin:133px 234px;
+}
+.place12{
+    width:573px;
+    height:300px;
+    background-image:url(Images/Rectangle\ 8.png)
+}
+.place121{
+    width:133px;
+    height:35px;
+    margin:133px 220px;
+}
+.place2{
+    width:100%;
+    height: 286px;
+    display:flex;
+    justify-content:space-between;
+}
+.place21{
+    width:374px;
+    height: 286px;
+    background-image:url('Images/Rectangle\ 6.png');
+}
+.place211{
+    width:144px;
+    height:35px;
+    margin:125px 130px;
+}
+
+.place22{
+    width:474px;
+    height:286px;
+    background-image:url('Images/Rectangle\ 7.png');
+}
+.place221{
+    width:200px;
+    height:35px;
+    margin:125px 137px;
+}
+
+.place23{
+    width:274px;
+    height:286px;
+    background-image:url('Images/Rectangle\ 9.png');
+}
+.place231{
+    width:113px;
+    height:35px;
+    margin:125px 80px;
+}
+.place3{
+    width:100%;
+    height: 300px;
+    display:flex;
+    justify-content:space-between;
+}
+.place311{
+    width:162px;
+    height:35px;
+    margin:133px 156px;
+}
+.place31{
+    width:473px;
+    height:300px;
+    background-image:url('Images/Rectangle\ 11.png');
+
+}
+.place32{
+    width:673px;
+    height:300px;
+    background-image:url('Images/rectangle 10.png');
+}
+.place321{
+    width:154px;
+    height:35px;
+    margin:132px 260px;
+}
