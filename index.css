@@ -7,6 +7,7 @@
 header{
     width:100%;
     height:55px;
+    margin-top:50px;
 }
 .uheader{
     width: 80%;
@@ -52,3 +53,110 @@ header ul li {
     color: rgb(255, 84, 0);
 }
 /* complete the header part */
+.intro{
+    width: 1170px;
+    height: 500px;
+    margin:50px auto;
+    background-image: url('Images/Group\ 13\ \(1\)\ \(1\).png');
+    border-radius: 16px;
+}
+.introlng{
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);
+}
+.uintro{
+    width:800px;
+    height: 288px;
+    padding:106px 185px;
+}
+.intro .part1{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 800;
+    text-align:center;
+}
+.intro .part2{
+    margin-top:24px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.uintro .part3 {
+    margin-top:48px;
+    width:800px;
+    height: 84px;
+    display: flex;
+    justify-content: space-around;
+    background-color:rgba(255, 255, 255, 0.296);
+    border-radius: 10px;
+}
+.part31{
+    width:159px;
+    height: 48px;
+    background-color:white;
+    border-radius: 5px;
+    align-items:center;
+    margin-top:16px;
+    text-align: center;
+    display:flex;  
+    justify-content:space-around;  
+    
+}
+input {
+    width:120px;
+    border: 0px ;
+}
+select{
+    border:0px;
+    color:gray;
+}
+.part32{
+    width:159px;
+    height: 48px;
+    background-color:white;
+    border-radius: 5px;
+    margin-top:16px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.part33{
+    width:159px;
+    height: 48px;
+    background-color:white;
+    border-radius: 5px;
+    margin-top:16px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.part34{
+    width:159px;
+    height: 48px;
+    background-color:white;
+    border-radius: 5px;
+    margin-top:16px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.intro button{
+    border-radius: 8px;
+    border:0px;
+    padding:16px 34px 16px 67px;
+    background-color: #FF5400;
+    width:159px;
+    height: 48px;
+    margin-top:16px;
+}
+/*Information part start*/
