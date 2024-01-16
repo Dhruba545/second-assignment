@@ -423,6 +423,82 @@ button{
     margin-left:266px;
 }
 /* Explore part end */
+/*  Start the Subscribe section */
+.sub{
+    width:1170px;
+    height:422px;
+    display:flex;
+    justify-content:space-between;
+    margin:50px auto 100px auto;
+
+}
+.sub1{
+    width:474px;
+    height:422px;
+    padding-top:40px;
+}
+.sub11{
+    width:126px;
+    height:30px;
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-left:40px;
+
+}
+.sub12{
+    width:350px;
+    height:52px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top:16px;
+    padding-left:40px;
+    padding-bottom: 24px;
+
+}
+.sub13{
+    width:393px;
+    height:52px;
+    margin-top:24px;
+    margin-left: 40px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+}
+.sub14{
+    
+    width:393px;
+    height:52px;
+    margin-top:16px;
+    margin-left: 40px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+}
+.subbt{
+    
+    width:393px;
+    height:52px;
+    margin-top:16px;
+    margin-left: 40px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+.hr{
+    width:392px;
+    height: 1px;
+    background: rgba(19, 19, 24, 0.10);
+}
+.sub2{
+    width:672px;
+    height:422px;
+    background-image:url('Images/Rectangle\ 8\ \(1\).png')
+}
+
+/* End of Subscribe section*/
+/*start the footer section */
 footer{
     width:1440px;
     height:502px;
@@ -488,3 +564,4 @@ hr{
     margin:30px auto;
 
 }
+/* footer section end*/
