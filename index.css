@@ -5,9 +5,10 @@
   font-style: normal;
 }
 header{
-    width:100%;
+    width:1170px;
     height:55px;
     margin-top:50px;
+    margin:50px auto;
 }
 .uheader{
     width: 80%;
@@ -329,7 +330,7 @@ button{
 .place32{
     width:673px;
     height:300px;
-    background-image:url('Images/rectangle 10.png');
+    background-image:url('Images/Rectangle\ 10.png');
 }
 .place321{
     width:154px;
