@@ -720,4 +720,26 @@ line-height: normal;
     header ul{
         flex-direction:column;
     }
+    /* media query for the place */ 
+    .place{
+        width:100%;
+        height:auto;
+    }
+    .place1 , .place2 , .place3 {
+        flex-direction:column;
+        height:auto;
+    }
+    .place11 , .place12 , .place21 , .place22 , .place23 , .place31 , .place32 {
+        width:335px;
+        height:176px;
+        margin-top:16px;
+        background-size:cover;
+        border-radius:10px;
+    }
+    .place111 , .place121 , .place211 , .place221 , .place231 , .place311 , .place321 {
+        margin:73px 105px !important ;
+        color: #FFF;
+        font-size: 20px;
+        font-weight: 700;
+    }
 }
