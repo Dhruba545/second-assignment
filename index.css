@@ -791,5 +791,29 @@ line-height: normal;
             margin-top:10px;
              width:335px;
           }
+          /* extra section media query done */
+          .exten2{
+            width:335px;
+            height:auto;
+
+          }
+          .exten21{
+            width:154px;
+            height:25px;
+            color: #131318;
+            text-align: center;
+            font-size: 20px;
+            font-weight: 800;
+            padding:0px 50px !important;
+          }
+          .exten2 p{
+            color: #5A5A5D;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 24px;
+          }
+          /* exten part media end */
+          
+
 
 }
