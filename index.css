@@ -60,6 +60,7 @@ header ul li {
     margin:50px auto;
     background-image: url('Images/Group\ 13\ \(1\)\ \(1\).png');
     border-radius: 16px;
+    background-repeat:no-repeat;
 }
 .introlng{
     width: 1170px;
@@ -585,4 +586,138 @@ hr{
     margin:30px auto;
 
 }
+.extra{
+    width:1170px;
+    height: 600px;
+    margin:50px auto;
+    border-radius:15px;
+    gap:20px;
+    overflow: scroll;
+    border:5px solid green;
+
+}
+.extrainfo{
+    width:1170px;
+    height:60px;
+    color: #FF5400;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.extrat{
+    color: #1a1818;
+text-align: center;
+font-family: Mulish;
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.extrap{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    overflow:scroll;
+}
+ .extra1{
+    width:1170px;
+    height:200px;
+    line-height: 26px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+    
+ }
+ .extra2{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+    
+ }
+ .extra3{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+
+ }
+ .extra4{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+
+ }
+ .extra5{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+
+ }
+ .extra6{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+
+ }
+ .extra7{
+    width:1170px;
+    height:200px;
+    background-color:rgba(231, 232, 185, 0.571);
+    overflow:scroll;
+    overflow-x:hidden;
+    margin-top:10px;
+    margin-top:25px;
+    border:2px solid rgba(228, 228, 112, 0.627);
+    
+
+ }
+ 
 /* footer section end*/
+@media screen and (max-width:600px){
+    .uintro{
+        display:flex;
+        flex-direction:column;
+    }
+    .part3{
+        flex-direction:column;
+    }
+    .uheader{
+        flex-direction:column;
+    }  
+    header ul{
+        flex-direction:column;
+    }
+}
