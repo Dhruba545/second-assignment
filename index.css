@@ -707,10 +707,7 @@ line-height: normal;
  
 /* footer section end*/
 @media screen and (max-width:600px){
-    .uintro{
-        display:flex;
-        flex-direction:column;
-    }
+    
     .part3{
         flex-direction:column;
     }
@@ -720,6 +717,13 @@ line-height: normal;
     header ul{
         flex-direction:column;
     }
+    /* this is the intro section media query */
+    .intro , .introlng {
+        width: 335px;
+        height:auto;
+        background-size:cover;
+    }
+    /* this is the intro section media query */
     /* media query for the place */ 
     .place{
         width:100%;
@@ -741,5 +745,33 @@ line-height: normal;
         color: #FFF;
         font-size: 20px;
         font-weight: 700;
+    }
+    /*end of place section*/
+    .info{
+        flex-direction:column;
+        width:335px;
+        height:auto;
+        margin-top: 10px;
+    }
+    .info .part2{
+        width:335px;
+        height:342px;
+        background-size:cover;
+        margin-top:10px;
+    }
+    .info .part1{
+        width:335px;
+        height:auto;
+    }
+    .infotitle {
+        color: #131318;
+        font-size: 20px;
+        font-weight: 800;
+        margin-left:-155px !important;
+    }
+    .info p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
     }
 }
