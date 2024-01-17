@@ -654,7 +654,6 @@ line-height: normal;
     margin-top:25px;
     border:2px solid rgba(228, 228, 112, 0.627);
     
-
  }
  .extra4{
     width:1170px;
@@ -828,6 +827,124 @@ line-height: normal;
             font-weight: 800;
             padding:0px 50px !important;
           }
+      .sub{
+        flex-direction:column;
+        width:335px;
+        height:auto;
 
+      }
+     .sub1{ 
+        width:335px;
+        height:auto;
+      }
+      .sub12 {
+        width:335px;
+        height:auto;
+        margin-top:15px;
 
-}
+      }
+      .sub13 , .sub14 , .subbt {
+        width:288px;
+        height:52px;
+      }
+      .sub2{
+        width:335px;
+        height:300px;
+        background-size:cover;
+      }
+      .sub21{
+        width:214px;
+        height:80px;
+        margin-top:192px !important; 
+        margin-left:120px !important;
+      }
+      .sub211{
+        color: #FFF;
+font-family: Mulish;
+font-size: 21.138px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-top: -27px;
+margin-left: 35px;
+      }
+      .h4{
+        color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 15.854px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+      }
+      .intro .part1{
+        width:205px;
+        height:28px;
+        color: #FFF;
+        font-size: 22px;
+        font-weight: 800;
+        margin-left: 10px;
+      }
+      .uintro , .introlng{
+        width:335px;
+        height:auto;
+      }
+      .uintro{
+        padding: 0px !important;
+      }
+      .intro{
+        background-size:cover;
+
+      }
+      .intro .part3{
+        margin-left: 100px;
+        margin-top:-123px;
+      }
+      .intro .part2{
+        margin-top: 30px;
+        width:304px;
+        height:250px;
+        color: #FFF;
+        text-align: center;
+        font-family: Mulish;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px; /* 150% */
+      }
+
+      header{
+        width:335px;
+        height:30px;
+        flex-direction:row;
+      }
+      header .part1{
+        width:28px;
+        height:33px;
+        background-size:cover;
+      }
+    .hero{
+        color: #131318;
+font-family: Mulish;
+font-size: 21.543px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    }
+    .hero span{
+        color: #FF5400;
+font-family: Mulish;
+font-size: 21.543px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+    }
+    header .part1{
+        margin-left: 0px;
+    }
+    .uheader{
+        width:335px;
+    }
+    header ul li{
+        display:hide;
+    }
