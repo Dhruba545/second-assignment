@@ -774,4 +774,22 @@ line-height: normal;
         font-weight: 400;
         line-height: 24px;
     }
+    /* info side media query done */
+    /*extra section start */
+    .extra {
+        width:335px;
+          }
+          .extra1 , .extra2 , .extra3 , .extra4 , .extra5 , .extra6 , .extra7 {
+            width:335px;
+            overflow:scroll;
+          }
+          .extrainfo{
+            text-align:start;
+            font-size:18px;
+            font-weight:600px;
+            text-align:center;
+            margin-top:10px;
+             width:335px;
+          }
+
 }
